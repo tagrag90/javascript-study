@@ -5,3 +5,7 @@ function fact(n) {
 for (var i=1; i<10; i++) {
   console.log(i + "! =" + fact(i));
 }
+
+// 1! = 1
+// 2! = 2
+// 3! = 6
